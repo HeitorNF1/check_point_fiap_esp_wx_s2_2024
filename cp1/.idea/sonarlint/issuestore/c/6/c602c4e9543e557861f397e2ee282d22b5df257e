@@ -1,0 +1,11 @@
+
+œ
+java:S11924"Define a constant instead of duplicating this literal "|                                                           |" 11 times.(»‰ö®8É±ß“ª2
+Ÿ
+java:S11921"}Define a constant instead of duplicating this literal " -----------------------------------------------------------" 4 times.(¤¨œ úÿÿÿÿ8Ê±ß“ª2
+k
+java:S3824&"IReplace this "Map.containsKey()" with a call to "Map.computeIfPresent()".(ÀöŸíúÿÿÿÿ8–²ß“ª2
+n
+java:S3457A"Q%n should be used in place of \n to produce the platform-specific line separator.(‘¿…é8Î²ß“ª2
+n
+java:S3457L"Q%n should be used in place of \n to produce the platform-specific line separator.(ø¿Ûþ8Ò²ß“ª2
