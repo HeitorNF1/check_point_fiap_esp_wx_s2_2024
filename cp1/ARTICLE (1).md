@@ -155,16 +155,16 @@ Este projeto foi entregue **dentro do prazo** estabelecido (18/10/2024), atenden
 
 ## **9. Referências**
 
-https://www.dio.me/articles/lendo-conteudo-de-arquivo-txt-com-java
-https://www.devmedia.com.br/a-classe-stringbuilder-em-java/25609
-https://pt.stackoverflow.com/questions/203452/como-excluir-espaços-em-branco
-https://www.guj.com.br/t/como-ver-se-um-char-esta-null/89634)
-https://www.dio.me/articles/lendo-conteudo-de-arquivo-txt-com-java
-https://www.devmedia.com.br/a-classe-stringbuilder-em-java/25609
-https://pt.stackoverflow.com/questions/203452/como-excluir-espaços-em-branco
-https://www.guj.com.br/t/como-ver-se-um-char-esta-null/89634
-https://www.devmedia.com.br/criando-e-gravando-dados-em-txt-com-java/23060
-https://www.youtube.com/watch?v=xkbmxZSWmWs
-https://docs.oracle.com/javase/8/docs/api/java/util/TreeMap.html
-https://docs.oracle.com/javase/8/docs/api/java/nio/file/Files.html#readAllBytes-java.nio.file.Path-
-https://www.geeksforgeeks.org/run-length-encoding/
+https://www.dio.me/articles/lendo-conteudo-de-arquivo-txt-com-java <br>
+https://www.devmedia.com.br/a-classe-stringbuilder-em-java/25609 <br>
+https://pt.stackoverflow.com/questions/203452/como-excluir-espaços-em-branco <br>
+https://www.guj.com.br/t/como-ver-se-um-char-esta-null/89634) <br>
+https://www.dio.me/articles/lendo-conteudo-de-arquivo-txt-com-java <br>
+https://www.devmedia.com.br/a-classe-stringbuilder-em-java/25609 <br>
+https://pt.stackoverflow.com/questions/203452/como-excluir-espaços-em-branco <br>
+https://www.guj.com.br/t/como-ver-se-um-char-esta-null/89634 <br>
+https://www.devmedia.com.br/criando-e-gravando-dados-em-txt-com-java/23060 <br>
+https://www.youtube.com/watch?v=xkbmxZSWmWs <br>
+https://docs.oracle.com/javase/8/docs/api/java/util/TreeMap.html <br>
+https://docs.oracle.com/javase/8/docs/api/java/nio/file/Files.html#readAllBytes-java.nio.file.Path- <br>
+https://www.geeksforgeeks.org/run-length-encoding/ <br>
