@@ -1,6 +1,6 @@
 # **COMPILADOR DE DADOS - Relatório de Compilação de Dados Gênicos**
 
-**Grupo:** Gabriel Doms - RM 98630 // HEITOR NOBRE - RM 551539 // YURI MONTEIRO - RM 5509
+**Grupo:** Gabriel Doms - RM 98630 // Gabriel Toledo - RM 551654 // HEITOR NOBRE - RM 551539 // YURI MONTEIRO - RM 550952 
 **Data:** 15/10/2024  
 **Disciplina:** DOMAIN DRIVER DESING - JAVA - FIAP
 
